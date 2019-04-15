@@ -1,0 +1,2 @@
+# dominate.com
+my blog
